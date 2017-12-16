@@ -20,4 +20,5 @@ After finishing RRT path planning, my code will generate a plot with the followi
 4. The path used by the RRT to go from the starting location to the goal location.
 
 One plot can be seen as below,
+
 ![Results](./image/RRT_PathPlanning.png)
